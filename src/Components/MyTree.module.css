@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  width: 300px;
+  border: solid 3px rgb(255, 255, 255);
+  height: 800px;
+  overflow: scroll;
+}
+.tree {
+  max-width: 320px;
+  position: relative;
+  height: 740px;
+  background-color: rgb(159, 209, 247);
+  font-size: 20px;
+
+}
+
+.treeHeader {
+  background-color: #02294c;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  height: 50px;
+}
+
+
+
+
